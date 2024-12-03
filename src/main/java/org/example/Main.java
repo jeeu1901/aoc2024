@@ -8,6 +8,9 @@ public class Main {
         System.out.println("Result day2.1 : " + Day2.partOne());
         System.out.println("Result day2.2 : " + Day2.partTwo());
 
+        System.out.println("Result day2.1 : " + Day3.partOne());
+        System.out.println("Result day2.2 : " + Day3.partTwo());
+
 
     }
 }
